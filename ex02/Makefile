@@ -6,17 +6,16 @@
 #    By: hcremers <hcremers@student.s19.be>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/08/10 16:19:04 by hcremers          #+#    #+#              #
-#    Updated: 2022/08/30 12:39:00 by hcremers         ###   ########.fr        #
+#    Updated: 2022/08/30 12:39:53 by hcremers         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME =	MyPhoneBook
+NAME =	tests.out
 
 FLAGS =	-Wall -Wextra -Werror -std=c++98
 
-SRCS =	main.cpp			\
-		Contact.cpp			\
-		PhoneBook.cpp		\
+SRCS =	tests.cpp			\
+		Account.cpp			\
 
 # ----- #
 
